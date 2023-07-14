@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alisa",
+    "age": 25,
+    "email": "alisa147@gmail.com",
+    "sex": "female"
+  },
+  {
+    "name": "Jack",
+    "age": 35,
+    "email": "jack678@gmail.com",
+    "sex": "male"
+  },
+  {
+    "name": "Sebastian",
+    "age": 20,
+    "email": "sebastian999@gmail.com",
+    "sex": "male"
+  },
+  {
+    "name": "Melisa",
+    "age": 18,
+    "email": "melisa234@gmail.com",
+    "sex": "female"
+  },
+  {
+    "name": "Li Woon",
+    "age": 27,
+    "email": "li-woon2334@gmail.com",
+    "sex": "male"
+  },
+  {
+    "name": "elison",
+    "age": 29,
+    "email": "elisooon@gmail.com",
+    "sex": "female"
+  }
+]
